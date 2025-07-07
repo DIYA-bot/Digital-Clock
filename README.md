@@ -7,8 +7,7 @@ Easily switch between **12-hour (AM/PM)** and **24-hour** formats with a simple 
 
 ## 🖥️ Live Preview
 
-> Comind soon..
-
+> https://digital-clock-seven-pi.vercel.app/
 ---
 
 ## 🚀 Features
