@@ -1,5 +1,5 @@
 # ⏰ Digital Clock with 12/24 Hour Format
-
+Author-Diya Dutta
 A responsive and real-time **Digital Clock Web App** using HTML, CSS, and JavaScript.  
 Easily switch between **12-hour (AM/PM)** and **24-hour** formats with a simple click.
 
